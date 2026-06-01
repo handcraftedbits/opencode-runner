@@ -1,0 +1,5 @@
+.agent-work/
+.agentbridge/
+.idea/
+
+*.iml
