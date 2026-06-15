@@ -1,4 +1,4 @@
-FROM ghcr.io/anomalyco/opencode:1.14.48
+FROM ghcr.io/anomalyco/opencode:latest
 
 RUN apk update && apk add openjdk25-jdk
 
